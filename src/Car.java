@@ -3,4 +3,12 @@ public class Car {
     public boolean hasWindows;
     public String make;
     public String model;
+
+    public void speeding(){
+        //
+    }
+
+    public boolean isRed(){
+        return true;
+    }
 }
